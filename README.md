@@ -10,6 +10,6 @@ This is the MicroSD model CATALEX
 
 ![image](resources/sd-card-module.jpg)
 
-## Exemple Sketch
+## Sample Sketch
 
 [Simple Write](./simple-write/README.md)
