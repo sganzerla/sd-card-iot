@@ -19,3 +19,5 @@ This are commands for lib `SD.h`
 [Simple Write](./simple-write/README.md)
 
 [Simple Read](./simple-read/README.md)
+
+[Read SdCard Write EPROM](./read-sd-card-write-eprom/README.md)
